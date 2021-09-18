@@ -6,6 +6,6 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have taught <a href="http://guide.berkeley.edu/courses/physics/">PHYS 8B: Introductory Physics at UC Berkeley</a>, leading discussion and lab sessions.
 
-Organize your courses by years, topics, or universities, however you like!
+I will publish my tutorials on AP Physics B/C in the future.

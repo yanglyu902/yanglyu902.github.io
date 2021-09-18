@@ -7,9 +7,9 @@ description:
 profile:
   align: right
   image: me.JPG
-#   address: >
-#     <p>yanglyu902@gmail.com<p>
-#     <p>+1 2179790840</p>
+  address: >
+    <p>yanglyu902@gmail.com<p>
+    <p>phone: 2179790840</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
