@@ -2,23 +2,32 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: me.JPG
+#   address: >
+#     <p>yanglyu902@gmail.com<p>
+#     <p>+1 2179790840</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a physics Ph.D. student at UC Berkeley studying neutrinos. The experiment I am working on is called <a href="https://icecube.wisc.edu/about-us/overview/">IceCube</a>, a cubic-kilometer particle detector buried inside the ice at the South Pole. <a href="https://en.wikipedia.org/wiki/Neutrino">Neutrinos</a> are nearly massless subatomic particles that rarely interact with matter, and IceCube aims to observe high-energy cosmic neutrinos to probe violent astrophysical sources such as supernovae, gamma-ray bursts, and black hole mergers.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Besides physics, I am also interested in data science, machine learning, and their intesections with physical sciences.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, I practice Kendo, a Japanese sword martial art, at my university's club. I also love photography (<a href="https://500px.com/p/yanglyu902?view=photos">here</a> is my 500px page), piano <br/> composition & improvisation, and traveling.
+
+<p style="font-family: times, serif; font-size:14pt; font-weight:bold"> Education </p>
+
+🎓Ph.D. in Physics (expected 2023) <br/>
+
+University of California, Berkeley
+
+🎓B.S. in Physics, Mathematics, and Astronomy, 2018 <br/>
+
+University of Illinois Urbana-Champaign
