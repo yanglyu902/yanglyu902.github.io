@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'jekyll'
+    gem 'jekyll' 
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
     gem 'jekyll-github-metadata'
@@ -11,4 +11,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'unicode_utils'
     gem 'webrick'
+    # for medium post
+    # gem "jekyll-display-medium-posts"
+    # gem "kramdown-parser-gfm"
 end
