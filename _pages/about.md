@@ -22,12 +22,10 @@ Besides physics, I am also interested in data science, machine learning, and the
 
 In my free time, I practice Kendo, a Japanese sword martial art, at my university's club. I also love photography (<a href="https://500px.com/p/yanglyu902?view=photos">here</a> is my 500px page), piano <br/> composition & improvisation, and traveling.
 
-<p style="font-family: times, serif; font-size:14pt; font-weight:bold"> Education </p>
+<p style="font-family: sans-serif; font-size:14pt; font-weight:bold"> Education </p>
 
-🎓Ph.D. in Physics (expected 2023) <br/>
+🎓Ph.D. in Physics (expected 2023) <br>
+&nbsp;&nbsp;&nbsp;&nbsp; <font size = "3"> University of California, Berkeley </font>
 
-University of California, Berkeley
-
-🎓B.S. in Physics, Mathematics, and Astronomy, 2018 <br/>
-
-University of Illinois Urbana-Champaign
+🎓B.S. in Physics, Mathematics, and Astronomy (2014 - 2018) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp; <font size = "3"> University of Illinois Urbana-Champaign </font>
